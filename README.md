@@ -5,8 +5,4 @@ I used a Logistic Regression model and got a 87% prediction accuracy.
 
 #### EDA
 The relationship between the variables showed little correlation. Especially on variable differences such as  age, gender and location types.
-<<<<<<< HEAD
-=======
-
 We should therefore put as much effort in urban areas as there would be in rural areas.
->>>>>>> Feature1
