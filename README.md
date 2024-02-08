@@ -4,4 +4,4 @@ The objective is to create a machine learning model to predict which individuals
 I used a Logistic Regression model and got a 87% prediction accuracy.
 
 #### EDA
-The relationship between the variables showed little correlation. Especially on variable differences such as  age, gender and location types
+The relationship between the variables showed little correlation. Especially on variable differences such as  age, gender and location types.
